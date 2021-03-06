@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{5242740D-C92B-4FE9-BD5B-2697ED09DF84}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{2755E9D8-C7BF-451B-9176-FFB46312465E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{6C24FB35-BB4E-4D3C-9069-31604CE3F580}"
@@ -19,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{805F7638-478E-47BF-A6DD-B7E816E1C087}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{14C39CB7-A533-4CE9-A948-5041B3633860}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{14C39CB7-A533-4CE9-A948-5041B3633860}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,10 +25,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5242740D-C92B-4FE9-BD5B-2697ED09DF84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5242740D-C92B-4FE9-BD5B-2697ED09DF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5242740D-C92B-4FE9-BD5B-2697ED09DF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5242740D-C92B-4FE9-BD5B-2697ED09DF84}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2755E9D8-C7BF-451B-9176-FFB46312465E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2755E9D8-C7BF-451B-9176-FFB46312465E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2755E9D8-C7BF-451B-9176-FFB46312465E}.Release|Any CPU.ActiveCfg = Release|Any CPU
